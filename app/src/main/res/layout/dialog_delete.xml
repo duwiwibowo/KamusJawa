@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtUpdate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@color/accent"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Hapus Kata"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btTidak"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/tidak"
+        android:textStyle="bold"
+        tools:ignore="ButtonStyle"
+        android:layout_below="@+id/txtUpdate"
+        android:layout_alignEnd="@+id/txtUpdate"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:id="@+id/btYa"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/ya"
+        android:textStyle="bold"
+        tools:ignore="ButtonStyle,RtlHardcoded"
+        android:layout_alignBaseline="@+id/btTidak"
+        android:layout_alignBottom="@+id/btTidak"
+        android:layout_alignStart="@+id/txtUpdate" />
+</RelativeLayout>
