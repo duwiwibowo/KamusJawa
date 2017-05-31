@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Kamus Jawa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="android_studio">Kamus Jawa</string>
+    <string name="android_studio_android_com"><![CDATA[Indonesia-Jawa & Jawa-Indonesia]]></string>
+    <string name="cari_kata">Indonesia</string>
+    <string name="tambah_kata">tambah kata</string>
+    <string name="tombol_cari">tombol cari</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="jawa">Jawa</string>
+    <string name="simpan">simpan</string>
+    <string name="penghubung">-</string>
+    <string name="kata_indonesia">Indonesia</string>
+    <string name="kata_jawa">Jawa</string>
+    <string name="tidak">Tidak</string>
+    <string name="ya">Ya</string>
+    <string name="indonesia_update">Indonesia</string>
+    <string name="jawa_update">Jawa</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="update_dialog">Update</string>
+    <string name="txt_nav_bjawa">
+        "       Bahasa Jawa bahasa yang digunakan penduduk bersuku bangsa Jawa di Jawa Tengah, Yogyakarta,"
+        "dan Jawa Timur. Selain itu, bahasa Jawa juga digunakan oleh penduduk yang tinggal di beberapa"
+        "daerah lain seperti Banten (terutama Serang, Cilegon, dan Tangerang) serta Jawa Barat (terutama"
+        "kawasan pantai utara yang meliputi Karawang, Subang, Indramayu, dan Cirebon).\n"
+        "       Pada dasarnya bahasa Jawa dibagi dalam 2 tingkatan yaitu Ngoko dan Krama. Ngoko adalah"
+        "tingkatan bahasa dalam bahasa Jawa yang paling umum dipakai di kalangan orang Jawa. Pemakaiannya"
+        "dihindari untuk berbicara dengan orang yang dihormati atau orang yang lebih tua. Sedangkan Krama"
+        "adalah tingkatan bahasa dalam Bahasa Jawa yang pemakaiannya sangat baik untuk berbicara dengan orang"
+        "yang dihormati atau orang yang lebih tua."
+    </string>
+    <string name="txt_nav_aksara">Aksara Jawa merupakan huruf baku dalam bahasa Jawa yang lebih dikenal dengan HANACARAKA. Aksara Jawa terdiri dari 20 huruf.</string>
+    <string name="txt_nav_tentang1">
+        "Kamus Jawa\n"
+        "v1.0 - 2017"
+    </string>
+    <string name="txt_nav_tentang2">
+        "Kelompok 01 :\n"
+        "- Duwi Wibowo                        ( 14.11.7890 )\n"
+        "- Eka Rangga Mahardika       ( 14.11.7893 )\n"
+        "- Nadhira Nanda Fitriani         ( 14.11.7877 )"
+    </string>
+</resources>

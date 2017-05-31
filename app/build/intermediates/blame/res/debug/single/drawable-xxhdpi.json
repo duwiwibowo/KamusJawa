@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_white_24dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_info_white_24dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_info_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_translate_white_24dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_translate_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cancel_white_24dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_language_white_24dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_language_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_g_translate_white_48dp.png",
+        "source": "/Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/res/drawable-xxhdpi/ic_g_translate_white_48dp.png"
+    }
+]

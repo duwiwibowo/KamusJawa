@@ -1,0 +1,7 @@
+#Mon May 29 14:14:43 WIB 2017
+base.0=/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_79d78736e8785797a0d9e273a65aa2049b3d1d21
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd76c07839a3055aa7f5288ced49e5ab9348fc6b/classes.dex
+base.1=/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd76c07839a3055aa7f5288ced49e5ab9348fc6b
+file.0=/Users/apple/AndroidStudioProjects/KamusJawa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_79d78736e8785797a0d9e273a65aa2049b3d1d21/classes.dex

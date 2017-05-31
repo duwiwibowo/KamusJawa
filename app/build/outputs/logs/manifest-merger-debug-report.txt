@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:7:5-63:19
+MERGED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/93175e08de48a79c4237553b16f20bf5fc0b22df/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/f834d623ec09522515598e37a908d9d728c03488/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/a99b2523f630f1ccf3f168bb1081303e4bbdb1be/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/.android/build-cache/ae6996f15ddb0be16ae068a96ca0e2488d43996c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/8db95dbe4ea87889a0d33e8bc89b079913e9abcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/a144dd543cb9155244e730551273c8bdf6f0184f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/37a1b531e47fedd95fb9928c82759b139f4e2a58/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/a6d2b7d5428dddae0c1fde1648622e354007512a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/9ed66132412e14df2436734ce7aa4d1b6a43c2cd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/6a9d9e310f34bb4e7b676b3af0b16074452a4ebc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/3b74e044c50b319e47887e85a851f2723f56fc1c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:13:9-40
+activity#id.ac.amikom.kamusjawa.SplashScreenActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:17:13-49
+	android:noHistory
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:15:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:20:27-74
+activity#id.ac.amikom.kamusjawa.MainActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:23:9-30:20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:24:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:27:13-29:49
+	android:value
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:28:17-63
+activity#id.ac.amikom.kamusjawa.TambahActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:31:9-38:20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:33:13-44
+	android:parentActivityName
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:32:13-43
+activity#id.ac.amikom.kamusjawa.NavBhsJawaActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:39:9-46:20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:41:13-40
+	android:parentActivityName
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:40:13-47
+activity#id.ac.amikom.kamusjawa.NavAksaraActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:47:9-54:20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:49:13-35
+	android:parentActivityName
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:48:13-46
+activity#id.ac.amikom.kamusjawa.NavTentangActivity
+ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:55:9-62:20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:57:13-36
+	android:parentActivityName
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml:56:13-47
+uses-sdk
+INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/93175e08de48a79c4237553b16f20bf5fc0b22df/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/f834d623ec09522515598e37a908d9d728c03488/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/a99b2523f630f1ccf3f168bb1081303e4bbdb1be/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/apple/.android/build-cache/4b4d5b4a6c4256208df101ecae7c64ef747c70f8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/.android/build-cache/ae6996f15ddb0be16ae068a96ca0e2488d43996c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/8db95dbe4ea87889a0d33e8bc89b079913e9abcf/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/a144dd543cb9155244e730551273c8bdf6f0184f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/37a1b531e47fedd95fb9928c82759b139f4e2a58/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/a6d2b7d5428dddae0c1fde1648622e354007512a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/9ed66132412e14df2436734ce7aa4d1b6a43c2cd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/6a9d9e310f34bb4e7b676b3af0b16074452a4ebc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/3b74e044c50b319e47887e85a851f2723f56fc1c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/KamusJawa/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/93175e08de48a79c4237553b16f20bf5fc0b22df/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/f834d623ec09522515598e37a908d9d728c03488/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/a99b2523f630f1ccf3f168bb1081303e4bbdb1be/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/apple/.android/build-cache/4b4d5b4a6c4256208df101ecae7c64ef747c70f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/apple/.android/build-cache/ae6996f15ddb0be16ae068a96ca0e2488d43996c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/8db95dbe4ea87889a0d33e8bc89b079913e9abcf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/a144dd543cb9155244e730551273c8bdf6f0184f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/37a1b531e47fedd95fb9928c82759b139f4e2a58/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/a6d2b7d5428dddae0c1fde1648622e354007512a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/9ed66132412e14df2436734ce7aa4d1b6a43c2cd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/6a9d9e310f34bb4e7b676b3af0b16074452a4ebc/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/apple/.android/build-cache/22988972023f574ce97bdd9f59550daef2be8cbc/output/AndroidManifest.xml:26:9-47

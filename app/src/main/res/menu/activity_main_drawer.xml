@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bhsjawa"
+            android:icon="@drawable/ic_language_white_24dp"
+            android:title="Bahasa Jawa" />
+        <item
+            android:id="@+id/nav_aksara"
+            android:icon="@drawable/ic_translate_white_24dp"
+            android:title="Aksara" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_info_white_24dp"
+            android:title="Tentang" />
+    </group>
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_cancel_white_24dp"
+            android:title="Keluar" />
+
+</menu>
